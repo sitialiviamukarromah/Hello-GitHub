@@ -3,8 +3,10 @@ Repository pertama saya
 # Hello GitHub
 Halo! Ini adalah repository GitHub pertama saya.
 ## Tentang Saya
-- Nama: Nama Mahasiswa
-- Program Studi: Nama Program Studi
+- Nama: siti_alivia_mukarromah
+- Program Studi: sistem_informasi
+- semester : 3
+- Alamat : Lenek_Lauk
 - Tambah seperlunya
 ## Tujuan
 Belajar menggunakan Git dan GitHub.
